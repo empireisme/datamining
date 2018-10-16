@@ -1,0 +1,4 @@
+#(e)Compute the square root of each elements.
+import math
+e=[math.sqrt(i) for i in x]
+print(e)

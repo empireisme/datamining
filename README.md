@@ -1,2 +1,2 @@
-# datamining
-交大作業
+# L4Python
+Learn for Python
